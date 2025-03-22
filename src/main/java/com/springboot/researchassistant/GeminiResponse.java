@@ -1,4 +1,4 @@
-package com.springboot.research.assistant;
+package com.springboot.researchassistant;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;

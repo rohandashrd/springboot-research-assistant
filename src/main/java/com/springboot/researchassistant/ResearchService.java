@@ -1,4 +1,4 @@
-package com.springboot.research.assistant;
+package com.springboot.researchassistant;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Value;

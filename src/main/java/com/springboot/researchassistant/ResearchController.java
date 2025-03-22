@@ -1,4 +1,4 @@
-package com.springboot.research.assistant;
+package com.springboot.researchassistant;
 
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
